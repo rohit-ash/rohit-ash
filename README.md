@@ -3,7 +3,7 @@ I'm a Robotics and AI enthusiast, currently working on perception for autonomous
 
 I graduated from NIT Trichy, with a major in mechanical engineering, in 2022.
 
-Please visit my website for more details on my work and interests - [WEBSITE](https://sites.google.com/d/1c-ZaZnE65iFP8bFUMNGLlLtH-2trgB7f/p/1GgWVOzFHeuqsxDfJKlDHBmmnZNFKxJyA/edit)
+Please visit my website for more details on my work and interests - [WEBSITE](https://sites.google.com/view/rohit-satishkumar/home)
 <!--
 
 Here are some ideas to get you started:
