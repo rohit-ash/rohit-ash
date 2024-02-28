@@ -5,7 +5,8 @@ I graduated from NIT Trichy, with a bachelor's in mechanical engineering, in 202
 
 - Robotics and Autonomous Systems
 - Computer Vision
-- Mechatronics, Controls and Optimization
+- Mechatronics and Controls
+- Classical and Meta Heuristic Optimization 
 - Deep Learning and Artificial Intelligence
 
 
