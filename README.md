@@ -1,13 +1,12 @@
 ### Hi, I'm Rohit 👋
-I'm a Robotics and AI enthusiast, currently working on perception for autonomous vehicles at CVIT, IIIT Hyderabad. Previously I worked as a vehicle engineer at Ola Electric, in the Electrical and Electronic systems vertical.
+I'm a Robotics and AI enthusiast, currently pursuing Masters in Robotic Systems Development at CMU. Previously I worked on perception for autonomous vehicles at CVIT, IIIT Hyderabad, and as a vehicle engineer at Ola Electric, in the Electrical and Electronic systems vertical.
 
 I graduated from NIT Trichy, with a bachelor's in mechanical engineering, in 2022. My technical interests are broadly encompassed into the following domains : 
 
-- Robotics and Autonomous Systems
 - Computer Vision
-- Mechatronics and Controls
-- Classical and Meta Heuristic Optimization 
 - Deep Learning and Artificial Intelligence
+- Robotics and Autonomous Systems
+- Classical and Meta Heuristic Optimization
 
 
 Please visit my website for more details on my work and interests - [WEBSITE](https://sites.google.com/view/rohit-satishkumar/home)
